@@ -39,6 +39,6 @@ The primary objective of this project is to analyze the unemployment rate during
 ## Requirements
 To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 * **Python (version 3.6 or higher)**
-* **Jupyter Notebook or JupyterLab**
+* **Jupyter Notebook or JupyterLab or Google Colab**
 * **Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)**
 
