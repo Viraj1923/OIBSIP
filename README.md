@@ -54,6 +54,6 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
 To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 * **Python (version 3.6 or higher)**
 * **Jupyter Notebook or JupyterLab or Google Colab**
-* **Required Python libraries (,etc.)**
+* **Required Python libraries (Pandas,numpy,matplotlib,seaborn,etc.)**
 
 
